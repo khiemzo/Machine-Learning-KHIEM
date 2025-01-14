@@ -1,0 +1,13 @@
+https://reprap.org/wiki/StepStick
+
+with 0.1 resistors: 
+
+A = Vref / 0.8
+Vref = A * 0.8
+
+
+nema16 motors = 6V / 6.5ohms = 1A * 0.8 = 0.80 Vref
+
+lifter motor = 5V / 10.52ohms = .475A * 0.8 = 0.380 Vref
+
+

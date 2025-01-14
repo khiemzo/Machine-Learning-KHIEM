@@ -1,0 +1,18 @@
+{
+  "version": "IOT-CAN-0.2",
+  "hostname": "global_hostname",
+  "networkList": [
+    {
+      "ssid": "ssid",
+      "password": "pass",
+      "hostname": "local_hostname",
+      "macaddress": null
+    }
+  ],
+  "iotery": {
+    "serial": "serial",
+    "key": "key",
+    "secret": "secret",
+    "teamUuid": "teamUuid"
+  }
+}

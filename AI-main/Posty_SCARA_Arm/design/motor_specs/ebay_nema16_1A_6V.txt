@@ -1,0 +1,26 @@
+1.Brand: SHINANO
+
+2.Model: STH-39C8011-02GN
+
+3.Motor size: 39mm
+
+4.Motor height: 19.5mm
+
+5.Output shaft diameter: 5mm(with synchronous pulley)
+
+6.Output shaft length: 14mm
+
+7.Step angle: 0.9 degrees
+
+8.Resistance: 5.3 ohms
+
+9.Lead: 2 phase 4 wire(A phase:red and yellow; B phase:orange and brown)
+
+10.Cable length: 32mm
+
+11.Short circuit current(@6V): 0.98A
+
+12.Torque: about 0.13 N.m
+
+13.Weight: 98g
+

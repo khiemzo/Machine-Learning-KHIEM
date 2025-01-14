@@ -1,0 +1,39 @@
+# this is a comment because it starts with #
+
+# name your wifi networks file "networks.csv"
+# the networks file can list many networks to try
+# the connection manager will try them in order until success
+# or until the have all failed
+
+# call wlan.wlan.make_ready() to make a connection
+# call wlan.wlan.make_ready() to check|remake a connection
+# you can call it as often as you like
+
+# basic data per line:
+# essid,password,hostname,macaddress
+
+# the essid (or ssid) is required, this is the station/router broadcast name
+# the password may not be needed if the network is open
+# the hostname for the connection is not required (defaults to global hostname)
+# the hostname is how the device will be labeled on the router
+# the macaddress is not needed (typically not used/given)
+# the macaddress only allows connection to an access point with this mac
+
+# extra comma separators on end of row are not needed
+# intermediate comma separators (if something is left blank) are needed
+
+# full example:
+myaccesspoint,mypassword,myhostname,FF:FF:FF:FF:FF:FF
+
+# minimum example (open network):
+myaccesspoint
+
+# normal example:
+myaccesspoint,mypassword
+
+# normal example with hostname:
+myaccesspoint,mypassword,myhostname
+
+# skip hostname but use mac example:
+# note the comma placeholder for the hostname
+myaccesspoint,mypassword,,FF:FF:FF:FF:FF:FF
