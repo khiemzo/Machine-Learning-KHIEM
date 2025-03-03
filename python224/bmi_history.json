@@ -1,0 +1,82 @@
+{
+    "khiêm": [
+        {
+            "date": "17:37:16 - 10/02/2025",
+            "age": 22,
+            "weight": 60.0,
+            "height": 150.0,
+            "bmi": 26.666666666666668,
+            "classification": "Thừa cân",
+            "ai_advice": ""
+        },
+        {
+            "date": "17:37:35 - 10/02/2025",
+            "age": 22,
+            "weight": 40.0,
+            "height": 150.0,
+            "bmi": 17.77777777777778,
+            "classification": "Gầy",
+            "ai_advice": "Chỉ số của bạn có dấu hiệu xấu so với lần đo trước. Hãy cân nhắc cải thiện chế độ ăn và tập luyện."
+        }
+    ],
+    "giang": [
+        {
+            "date": "17:49:41 - 10/02/2025",
+            "age": 22,
+            "weight": 50.0,
+            "height": 150.0,
+            "bmi": 22.22222222222222,
+            "classification": "Bình thường",
+            "ai_advice": ""
+        }
+    ],
+    "khiem": [
+        {
+            "date": "22:29:31 - 10/02/2025",
+            "age": 22,
+            "weight": 170.0,
+            "height": 55.00000000000001,
+            "bmi": 561.9834710743801,
+            "classification": "Béo phì nghiêm trọng",
+            "ai_advice": ""
+        },
+        {
+            "date": "22:30:34 - 10/02/2025",
+            "age": 23,
+            "weight": 55.0,
+            "height": 170.0,
+            "bmi": 19.031141868512112,
+            "classification": "Gầy",
+            "ai_advice": "Bạn đã cải thiện so với lần đo trước. Hãy tiếp tục duy trì chế độ lành mạnh!"
+        }
+    ],
+    "khang": [
+        {
+            "date": "22:33:58 - 10/02/2025",
+            "age": 22,
+            "weight": 56.0,
+            "height": 170.0,
+            "bmi": 19.377162629757787,
+            "classification": "Gầy",
+            "ai_advice": ""
+        },
+        {
+            "date": "22:34:09 - 10/02/2025",
+            "age": 22,
+            "weight": 56.0,
+            "height": 175.0,
+            "bmi": 18.285714285714285,
+            "classification": "Gầy",
+            "ai_advice": "Sự thay đổi nghiêm trọng, bạn cần cải thiện chế độ sống ngay để bảo vệ sức khỏe của mình!"
+        },
+        {
+            "date": "22:34:23 - 10/02/2025",
+            "age": 22,
+            "weight": 60.0,
+            "height": 175.0,
+            "bmi": 19.591836734693878,
+            "classification": "Gầy",
+            "ai_advice": "Bước tiến ấn tượng! BMI của bạn đã giảm đáng kể so với mục tiêu. Hãy tiếp tục nỗ lực!"
+        }
+    ]
+}

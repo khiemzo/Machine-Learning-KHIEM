@@ -1,0 +1,7 @@
+John: 7, 6 (total: 13)
+Alicia: 7, 6, 8 (total: 21)
+Bill: 7 (total: 7)
+Claire:  (total: 0)
+Sam: 6, 5, 7, 7 (total: 25)
+Scarlett: 6, 7, 5 (total: 18)
+Joe: 5, 7 (total: 12)

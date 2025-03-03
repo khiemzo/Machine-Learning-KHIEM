@@ -1,0 +1,32 @@
+Name: Tony Parker
+Nickname: IronMan
+Actor: Robert Downey Jr.
+
+Name: Steve Rogers
+Nickname: Captain America
+Actor: Chris Evans
+
+Name: Bruce Banner
+Nickname: Hulk
+Actor: Mark Ruffalo
+
+Name: Thor
+Nickname: Thor
+Actor: Chris Hemsworth
+
+Name: Natasha Romanoff
+Nickname: Black Widow
+Actor: Scarlett Johansson
+
+Name: Clint Barton
+Nickname: Hawkeye
+Actor: Jeremy Renner
+
+Name: James Rhodes
+Nickname: War Machine
+Actor: Don Cheadle
+
+Name: Scott Lang
+Nickname: Ant-Man
+Actor: Paul Rudd
+
