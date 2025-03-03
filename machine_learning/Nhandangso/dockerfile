@@ -1,0 +1,5 @@
+FROM python:3.10
+WORKDIR /nhandangso
+COPY nhandangsobangchuviettay.py .
+RUN pip install --root-user-action=ignore numpy Pillow tensorflow-cpu
+CMD ["python3", "nhandangsobangchuviettay.py"]

@@ -1,0 +1,6 @@
+[22:39:59] Người nói 1: 1 2 3 4 alo alo.
+[22:40:04] Người nói 2: không có nghe rõ không.
+[22:40:08] Người nói 1: 1234 alo alo có nghe rõ không.
+[22:40:16] Người nói 2: 24 bài thuyết trình đến đây là kết thúc Bạn có nghe rõ không nói đi nói đi.
+[22:40:48] Người nói 1: tôi sẽ tinh gọn chương trình bằng cách loại bỏ UEFA edit tool và tập trung vào chức năng ghi âm và nhận dạng giọng nói ta có thể điều chỉnh để.
+[22:41:00] Người nói 2: đoạn hội thoại về cầu này thì phải loại bỏ các phần không cần thiết như đã loại bỏ phần đuôi không liên quan đến file edit và tool.

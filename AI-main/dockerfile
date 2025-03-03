@@ -1,0 +1,7 @@
+from python:3
+
+WORKDIR K:\code\git-Khiem\AI-main
+
+COPY . .
+
+CMD ["PYTHON","./khiemdeptrai.py"]
